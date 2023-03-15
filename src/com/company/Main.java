@@ -2,6 +2,8 @@ package com.company;
 
 /*
 
+in git
+
 DBNavigator => Settings => + Database SQLite, Pfad angeben
 DBBrowser => Mit Database verbinden
 CREATE TABLE users (
