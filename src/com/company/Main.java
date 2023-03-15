@@ -3,6 +3,7 @@ package com.company;
 /*
 
 in git
+Branch Test
 
 DBNavigator => Settings => + Database SQLite, Pfad angeben
 DBBrowser => Mit Database verbinden
